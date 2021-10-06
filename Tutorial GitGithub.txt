@@ -1,0 +1,42 @@
+Rotina Git
+
+comandos
+
+git --version -----> Versão Git
+
+============================================================
+git init - Inicializa o git no repositório
+
+branch (master/main)
+
+=============================================================
+
+git add - Envia para o Stand (Espera)
+
+git add Readme.MD (exemplo)
+
+=============================================================
+
+git commit -m "primeiro commit"
+
+=============================================================
+
+git branch -M "main" / Renomear
+
+=============================================================
+
+No github - Criar novo repositório (clicar no botão NEW) Site do github
+
+=============================================================
+
+Preencher o campo com o nome do repositório descrição.
+
+Definir se será público ou privado.
+
+Criar repositório no github
+
+Executar o git remote add origin https://github.com/"nome do repositório"
+
+Obs: não usar control V para colar o nome do repositório, utilizar Insert para 
+colar .
+Em caso de erro , exclua o remote origin e comece tudo a partir do git remote.
